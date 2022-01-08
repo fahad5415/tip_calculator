@@ -1,4 +1,4 @@
-# first_flutter_app
+# tip_calculator
 
 A new Flutter project.
 
